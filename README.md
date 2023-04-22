@@ -2,10 +2,11 @@
 
 ## Arrays
 
-- [First duplicate](#firstDuplicate)
-- [First not repeating character](#firstNotRepeatingCharacter)
-- [Rotate image](#rotateImage)
-- [Sudoku checker](#sudoku2)
+1. [First duplicate](#firstDuplicate)
+2. [First not repeating character](#firstNotRepeatingCharacter)
+3. [Rotate image](#rotateImage)
+4. [Sudoku checker](#sudoku2)
+5. [Is crypt solution](#isCryptSolution)
 
 ### firstDuplicate
 
@@ -109,4 +110,50 @@ the output should be solution(grid) = false.
 
 The given grid is not correct because there are two 1s in the second column. Each column, each row, and each 3 × 3 subgrid can only contain the numbers 1 through 9 one time.
 
+```
+
+### isCryptSolution
+
+**Task**
+
+A cryptarithm is a mathematical puzzle for which the goal is to find the correspondence between letters and digits, such that the given arithmetic equation consisting of letters holds true when the letters are converted to digits.
+
+You have an array of strings crypt, the cryptarithm, and an an array containing the mapping of letters and digits, solution. The array crypt will contain three non-empty strings that follow the structure: `[word1, word2, word3]`, which should be interpreted as the word1 + word2 = word3 cryptarithm.
+
+If crypt, when it is decoded by replacing all of the letters in the cryptarithm with digits using the mapping in solution, becomes a valid arithmetic equation containing no numbers with leading zeroes, the answer is true. If it does not become a valid arithmetic solution, the answer is false.
+
+Note that number 0 doesn't contain leading zeroes (while for example 00 or 0123 do).
+
+**Example**
+
+```
+For
+
+crypt = ["SEND", "MORE", "MONEY"] and
+solution = [['O', '0'],
+            ['M', '1'],
+            ['Y', '2'],
+            ['E', '5'],
+            ['N', '6'],
+            ['D', '7'],
+            ['R', '8'],
+            ['S', '9']]
+
+the output should be TRUE
+
+When you decrypt "SEND", "MORE", and "MONEY" using the mapping given in crypt, you get 9567 + 1085 = 10652 which is correct and a valid arithmetic equation.
+
+
+For
+
+crypt = ["TEN", "TWO", "ONE"] and
+solution = [['O', '1'],
+            ['T', '0'],
+            ['W', '9'],
+            ['E', '5'],
+            ['N', '4']]
+
+the output should FALSE
+
+Even though 054 + 091 = 145, 054 and 091 both contain leading zeroes, meaning that this is not a valid solution.
 ```

@@ -2,6 +2,11 @@
 
 ## Arrays
 
+- [First duplicate](#firstDuplicate)
+- [First not repeating character](#firstNotRepeatingCharacter)
+- [Rotate image](#rotateImage)
+- [Sudoku checker](#sudoku2)
+
 ### firstDuplicate
 
 **Task**

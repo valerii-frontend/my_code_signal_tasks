@@ -15,6 +15,7 @@
 [![Linked Lists](https://img.shields.io/badge/Linked%20Lists-darkgreen)](./docs/arrays.md)
 
 1. [Remove K from list](./docs/linked_lists.md#removeKFromList)
+2. [Is list palindrome](./docs/linked_lists.md#islistpalindrome)
 
 ---
 

@@ -1,4 +1,4 @@
-# [![CodeSignal](https://img.shields.io/badge/Code%20Signal%20Platform-Interview%20Practice%20Tasks-darkblue)](https://github.com/username)
+# [![CodeSignal](https://img.shields.io/badge/Code%20Signal%20Platform-Interview%20Practice%20Tasks-darkblue)](https://app.codesignal.com/interview-practice)
 
 [![Arrays](https://img.shields.io/badge/Arrays-darkgreen)](./docs/arrays.md)
 

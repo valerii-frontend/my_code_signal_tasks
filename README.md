@@ -19,4 +19,4 @@
 ---
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/valerii-frontend/my_code_signal_tasks?style=for-the-badge)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/valerii-frontend/my_code_signal_tasks?style=for-the-badge) ![Lines of code](https://img.shields.io/tokei/lines/github/valerii-frontend/my_code_signal_tasks?style=for-the-badge) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/valerii-frontend/my_code_signal_tasks?color=%23B34EE9&style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/valerii-frontend/my_code_signal_tasks?style=for-the-badge) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/valerii-frontend/my_code_signal_tasks?color=%23B34EE9&style=for-the-badge)

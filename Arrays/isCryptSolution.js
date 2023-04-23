@@ -2,7 +2,6 @@ function solution(crypt, symbolMap) {
   const [w1, w2, w3] = crypt;
   const charLegend = createObjectFromArray(symbolMap);
   const [n1, n2, n3] = [decode(w1, charLegend), decode(w2, charLegend), decode(w3, charLegend)];
-
   const isNumsValid = +n1 + +n2 === +n3;
   const isValid = checkZero(n1) && checkZero(n2) && checkZero(n3) && isNumsValid;
 
@@ -14,7 +13,6 @@ function decode(word, obj) {
   for (let i = 0; i < word.length; i++) {
     num += obj[word[i]];
   }
-  console.log(word, num);
   return num;
 }
 
@@ -29,3 +27,18 @@ function createObjectFromArray(array) {
   }
   return object;
 }
+
+// test
+const cr = ["SEND", "MORE", "MONEY"];
+
+const sol = [
+  ["O", "0"],
+  ["M", "1"],
+  ["Y", "2"],
+  ["E", "5"],
+  ["N", "6"],
+  ["D", "7"],
+  ["R", "8"],
+  ["S", "9"],
+];
+console.log(solution(cr, sol)); //true

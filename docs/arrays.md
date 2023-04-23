@@ -1,4 +1,4 @@
-# [BACK](../README.md)
+[![back to readme](https://img.shields.io/badge/⬅%20BACK-blue)](../README.md)
 
 # Arrays
 
@@ -153,4 +153,4 @@ the output should FALSE
 Even though 054 + 091 = 145, 054 and 091 both contain leading zeroes, meaning that this is not a valid solution.
 ```
 
-# [⬅ BACK](../README.md)
+[![back to readme](https://img.shields.io/badge/⬅%20BACK-blue)](../README.md)

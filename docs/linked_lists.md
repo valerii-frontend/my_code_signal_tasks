@@ -1,4 +1,4 @@
-# [⬅ BACK](../README.md)
+[![back to readme](https://img.shields.io/badge/⬅%20BACK-blue)](../README.md)
 
 # Linked Lists
 
@@ -19,4 +19,4 @@ For l = [1, 2, 3, 4, 5, 6, 7] and k = 10, the output should be
 solution(l, k) = [1, 2, 3, 4, 5, 6, 7].
 ```
 
-# [⬅ BACK](../README.md)
+[![back to readme](https://img.shields.io/badge/⬅%20BACK-blue)](../README.md)

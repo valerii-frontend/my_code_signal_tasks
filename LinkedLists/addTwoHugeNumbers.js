@@ -1,4 +1,4 @@
-function solution(a, b) {
+function addTwoHugeNumbers(a, b) {
   // Reverse both linked lists
   a = reverseLinkedList(a);
   b = reverseLinkedList(b);

@@ -1,4 +1,4 @@
-function solution(l) {
+function isListPalindrome(l) {
   if (l === null || l.next === null) {
     return true;
   }

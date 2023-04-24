@@ -14,7 +14,7 @@ function gridCheck(grid, index, isRow) {
   }
   return true;
 }
-function solution(grid) {
+function sudokuChecker(grid) {
   // Check rows and cols
   for (let i = 0; i < 9; i++) {
     if (!gridCheck(grid, i, true) || !gridCheck(grid, i, false)) {

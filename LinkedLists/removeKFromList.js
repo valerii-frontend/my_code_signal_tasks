@@ -1,4 +1,4 @@
-function solution(l, k) {
+function removeKFromList(l, k) {
   let temp = new ListNode();
   temp.next = l;
   let current = temp;

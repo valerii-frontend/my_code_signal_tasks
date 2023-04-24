@@ -1,4 +1,4 @@
-function solution(a) {
+function firstDuplicate(a) {
   let b = {};
   for (let i = 0; i < a.length; i++) {
     let value = a[i];

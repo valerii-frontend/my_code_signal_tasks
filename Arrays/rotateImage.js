@@ -1,4 +1,4 @@
-function solution(a) {
+function rotateImage(a) {
   const len = a.length;
   const itemLen = a[0].length;
   let result = Array.from({ length: len }, () => new Array(itemLen));
@@ -23,7 +23,7 @@ console.log(a);
 [ 4, 5, 6 ]
 [ 7, 8, 9 ]
 */
-console.log(solution(a));
+console.log(rotateImage(a));
 /*
 [ 7, 4, 1 ]
 [ 8, 5, 2 ]

@@ -2,7 +2,7 @@
 
 [![CodeSignal](https://img.shields.io/badge/Interview%20Practice-%40Code%20Signal-darkblue)](https://app.codesignal.com/interview-practice)
 
-[![Arrays](https://img.shields.io/badge/Arrays-darkgreen)](./docs/arrays.md)
+[![Arrays](https://img.shields.io/badge/Arrays-259)](./docs/arrays.md)
 
 1. [First duplicate](./docs/arrays.md#firstDuplicate)
 2. [First not repeating character](./docs/arrays.md#firstNotRepeatingCharacter)
@@ -12,10 +12,11 @@
 
 ##
 
-[![Linked Lists](https://img.shields.io/badge/Linked%20Lists-darkgreen)](./docs/arrays.md)
+[![Linked Lists](https://img.shields.io/badge/Linked%20Lists-259)](./docs/arrays.md)
 
 1. [Remove K from list](./docs/linked_lists.md#removeKFromList)
 2. [Is list palindrome](./docs/linked_lists.md#islistpalindrome)
+3. [Add 2 huge numbers](./docs/linked_lists.md#addTwoHugeNumbers)
 
 ---
 

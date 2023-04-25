@@ -19,6 +19,7 @@
 3. [Add 2 huge numbers](./docs/linked_lists.md#addTwoHugeNumbers)
 4. [Merge 2 linked lists](./docs/linked_lists.md#mergeTwoLinkedLists)
 5. [Reverse nodes in K groups](./docs/linked_lists.md#reverseNodesInKGroups)
+6. [Rearrange last N](./docs/linked_lists.md#rearrangeLastN)
 
 ---
 

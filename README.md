@@ -22,6 +22,7 @@
 [![Hash tables](https://img.shields.io/badge/Hash%20tables-259)](./docs/hash_tables.md)
 
 1. [Grouping dishes](./docs/hash_tables.md#groupingDishes)
+2. [Are following patterns](./docs/hash_tables.md#areFollowingPatterns)
 
 ---
 

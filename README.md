@@ -10,8 +10,6 @@
 4. [Sudoku checker](./docs/arrays.md#sudoku2)
 5. [Is crypt solution](./docs/arrays.md#isCryptSolution)
 
-##
-
 [![Linked Lists](https://img.shields.io/badge/Linked%20Lists-259)](./docs/arrays.md)
 
 1. [Remove K from list](./docs/linked_lists.md#removeKFromList)
@@ -20,6 +18,10 @@
 4. [Merge 2 linked lists](./docs/linked_lists.md#mergeTwoLinkedLists)
 5. [Reverse nodes in K groups](./docs/linked_lists.md#reverseNodesInKGroups)
 6. [Rearrange last N](./docs/linked_lists.md#rearrangeLastN)
+
+[![Hash tables](https://img.shields.io/badge/Hash%20tables-259)](./docs/arrays.md)
+
+1. [Remove K from list](./docs/linked_lists.md#removeKFromList)
 
 ---
 

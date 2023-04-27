@@ -23,6 +23,7 @@
 
 1. [Grouping dishes](./docs/hash_tables.md#groupingDishes)
 2. [Are following patterns](./docs/hash_tables.md#areFollowingPatterns)
+3. [Contains close nums](./docs/hash_tables.md#containsCloseNums)
 
 ---
 

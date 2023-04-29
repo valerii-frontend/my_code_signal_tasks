@@ -27,6 +27,10 @@
 4. [Possible sums](./docs/hash_tables.md#possibleSums)
 5. [Swap lex order](./docs/hash_tables.md#swapLexOrder)
 
+[![Trees: Basic](https://img.shields.io/badge/Trees%basic-259)](./docs/trees_basic.md)
+
+1. [Has path with given sum](./docs/trees_basic.md#hasPathWithGivenSum)
+
 ---
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/valerii-frontend/my_code_signal_tasks?style=for-the-badge)

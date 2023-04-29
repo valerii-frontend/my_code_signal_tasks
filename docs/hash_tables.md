@@ -93,4 +93,42 @@ As you can see, there are 9 distinct sums that can be created from non-empty gro
 
 ```
 
+## swapLexOrder
+
+### Task
+
+Given a string str and array of pairs that indicates which indices in the string can be swapped, return the lexicographically largest string that results from doing the allowed swaps. You can swap indices any number of times.
+
+---
+
+<h3 style="text-align:center">Lexicographical Order (for strings)</h3>
+
+A way of sorting strings, similar to alphabetical order but generalized to all kinds of characters.
+
+When comparing two strings, `s` and `t`, we compare each pair of characters with equal indices (`s[i]` and `t[i]`), starting with `i = 0`:
+
+`if s[i] < t[i] or if s[i]` is undefined, then we conclude that `s < t`,
+`if s[i] > t[i] or if t[i]` is undefined, then we conclude that `s > t`,
+`if s[i] = t[i]` then we repeat the process by comparing `s[i + 1] to t[i + 1]`.
+If the two strings have equal length and `s[i] = t[i]` for every character, then we conclude that `s = t`
+
+**_Examples:_**
+
+- `"snow" > "snoring"` because the first string contains a greater character at index `i = 3`
+- `"cat" < "caterpillar"` because the first string is undefined at index `i = 3`
+- `"9" < "A"` because numbers are lexicographically smaller than uppercase English letters
+- `"Z" < "a"` because uppercase English letters are lexicographically smaller than lowercase English letters
+
+---
+
+### Example
+
+```
+For str = "abdc" and pairs = [[1, 4], [3, 4]], the output should be
+solution(str, pairs) = "dbca".
+
+By swapping the given indices, you get the strings: "cbda", "cbad", "dbac", "dbca". The lexicographically largest string in this list is "dbca".
+
+```
+
 [![back to readme](https://img.shields.io/badge/⬅%20BACK-blue)](../README.md)

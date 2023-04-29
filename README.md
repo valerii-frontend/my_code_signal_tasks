@@ -25,6 +25,7 @@
 2. [Are following patterns](./docs/hash_tables.md#areFollowingPatterns)
 3. [Contains close nums](./docs/hash_tables.md#containsCloseNums)
 4. [Possible sums](./docs/hash_tables.md#possibleSums)
+5. [Swap lex order](./docs/hash_tables.md#swapLexOrder)
 
 ---
 

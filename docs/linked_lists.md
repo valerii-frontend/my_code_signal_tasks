@@ -2,7 +2,7 @@
 
 # Linked Lists
 
-## removeKFromList
+## 💎 removeKFromList
 
 ### Task
 
@@ -19,7 +19,9 @@ For l = [1, 2, 3, 4, 5, 6, 7] and k = 10, the output should be
 solution(l, k) = [1, 2, 3, 4, 5, 6, 7].
 ```
 
-## isListPalindrome
+---
+
+## 💎 isListPalindrome
 
 ### Task
 
@@ -39,7 +41,9 @@ For l = [1, 2, 2, 3], the output should be
 solution(l) = false.
 ```
 
-## addTwoHugeNumbers
+---
+
+## 💎 addTwoHugeNumbers
 
 ### Task
 
@@ -59,7 +63,9 @@ solution(a, b) = [223, 104, 105].
 Explanation: 12300040005 + 10001000100 = 22301040105.
 ```
 
-## mergeTwoLinkedLists
+---
+
+## 💎 mergeTwoLinkedLists
 
 ### Task
 
@@ -76,7 +82,9 @@ For l1 = [1, 1, 2, 4] and l2 = [0, 3, 5], the output should be
 solution(l1, l2) = [0, 1, 1, 2, 3, 4, 5]
 ```
 
-## reverseNodesInKGroups
+---
+
+## 💎 reverseNodesInKGroups
 
 ### Task
 
@@ -97,7 +105,9 @@ For l = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] and k = 3, the output should be
 solution(l, k) = [3, 2, 1, 6, 5, 4, 9, 8, 7, 10, 11].
 ```
 
-## rearrangeLastN
+---
+
+## 💎 rearrangeLastN
 
 ### Task
 

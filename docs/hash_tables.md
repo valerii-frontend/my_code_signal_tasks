@@ -2,7 +2,7 @@
 
 # Hash Tables
 
-## groupingDishes
+## 💎groupingDishes
 
 ### Task
 
@@ -26,7 +26,9 @@ the output should be
 
 ```
 
-## areFollowingPatterns
+---
+
+## 💎areFollowingPatterns
 
 ### Task
 
@@ -42,7 +44,9 @@ solution(strings, patterns) = false.
 
 ```
 
-## containsCloseNums
+---
+
+## 💎containsCloseNums
 
 ### Task
 
@@ -63,7 +67,9 @@ The absolute difference between the positions of the two 2s is 3, which is more 
 
 ```
 
-## possibleSums
+---
+
+## 💎possibleSums
 
 ### Task
 
@@ -93,7 +99,9 @@ As you can see, there are 9 distinct sums that can be created from non-empty gro
 
 ```
 
-## swapLexOrder
+---
+
+## 💎swapLexOrder
 
 ### Task
 

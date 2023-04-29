@@ -2,7 +2,7 @@
 
 # Arrays
 
-## firstDuplicate
+## 💎firstDuplicate
 
 ### Task
 
@@ -20,7 +20,9 @@ For a = [2, 2], the output should be solution(a) = 2;
 For a = [2, 4, 3, 5, 1], the output should be solution(a) = -1.
 ```
 
-## firstNotRepeatingCharacter
+---
+
+## 💎firstNotRepeatingCharacter
 
 ### Task
 
@@ -40,7 +42,9 @@ solution(s) = '_'.
 There are no characters in this string that do not repeat.
 ```
 
-## rotateImage
+---
+
+## 💎rotateImage
 
 ### Task
 
@@ -65,7 +69,9 @@ solution(a) =
      [9, 6, 3]]
 ```
 
-## sudoku2
+---
+
+## 💎sudoku2
 
 ### Task
 
@@ -107,7 +113,9 @@ The given grid is not correct because there are two 1s in the second column. Eac
 
 ```
 
-## isCryptSolution
+---
+
+## 💎isCryptSolution
 
 ### Task
 

@@ -30,7 +30,8 @@
 [![Trees: Basic](https://img.shields.io/badge/Trees%20basic-259)](./docs/trees_basic.md)
 
 1. [Has path with given sum](./docs/trees_basic.md#hasPathWithGivenSum)
-2. [Find profession](./docs/trees_basic.md#findProfession)
+2. [isTreeSymmetric](./docs/trees_basic.md#isTreeSymmetric)
+3. [Find profession](./docs/trees_basic.md#findProfession)
 
 ---
 

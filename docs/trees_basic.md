@@ -2,7 +2,7 @@
 
 # Trees: basic
 
-## 💎 hasPathWithGivenSum
+## 💎hasPathWithGivenSum
 
 ### Task
 
@@ -120,7 +120,7 @@ This is what this tree looks like:
 There is no path from root to leaf with the given sum 7.
 ```
 
-## 💎 isTreeSymmetric
+## 💎isTreeSymmetric
 
 ### Task
 
@@ -220,7 +220,7 @@ Here's what the tree in this example looks like:
 
 As you can see, it is not symmetric.
 
-## 💎 findProfession
+## 💎findProfession
 
 ### Task
 

@@ -32,6 +32,7 @@
 1. [Has path with given sum](./docs/trees_basic.md#hasPathWithGivenSum)
 2. [isTreeSymmetric](./docs/trees_basic.md#isTreeSymmetric)
 3. [Find profession](./docs/trees_basic.md#findProfession)
+4. [Kth smallest in BST](./docs/trees_basic.md#kthSmallestInBST)
 
 ---
 

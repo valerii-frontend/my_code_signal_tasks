@@ -35,6 +35,7 @@
 4. [Kth smallest in BST](./docs/trees_basic.md#kthSmallestInBST)
 5. [Is subtree](./docs/trees_basic.md#isSubtree)
 6. [Restore binary tree](./docs/trees_basic.md#restoreBinaryTree)
+7. [Find substrings](./docs/trees_basic.md#findSubstrings)
 
 ---
 

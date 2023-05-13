@@ -32,10 +32,11 @@
 1. [Has path with given sum](./docs/trees_basic.md#hasPathWithGivenSum)
 2. [isTreeSymmetric](./docs/trees_basic.md#isTreeSymmetric)
 3. [Find profession](./docs/trees_basic.md#findProfession)
-4. [Kth smallest in BST](./docs/trees_basic.md#kthSmallestInBST)
+4. [Kth smallest in binary search tree](./docs/trees_basic.md#kthSmallestInBST)
 5. [Is subtree](./docs/trees_basic.md#isSubtree)
 6. [Restore binary tree](./docs/trees_basic.md#restoreBinaryTree)
 7. [Find substrings](./docs/trees_basic.md#findSubstrings)
+8. [Delete from binary search tree](./docs/trees_basic.md#deleteFromBST)
 
 ---
 

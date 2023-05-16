@@ -38,6 +38,10 @@
 7. [Find substrings](./docs/trees_basic.md#findSubstrings)
 8. [Delete from binary search tree](./docs/trees_basic.md#deleteFromBST)
 
+[![Heap, stacks, queues](https://img.shields.io/badge/Heap%20stacks%20queues-259)](./docs/heap_stacks_queues.md)
+
+1. [Kth largest element](./docs/heap_stacks_queues.md#kthLargestElement)
+
 ---
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/valerii-frontend/my_code_signal_tasks?style=for-the-badge)

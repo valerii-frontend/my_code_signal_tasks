@@ -41,6 +41,7 @@
 [![Heap, stacks, queues](https://img.shields.io/badge/Heap%20stacks%20queues-259)](./docs/heap_stacks_queues.md)
 
 1. [Kth largest element](./docs/heap_stacks_queues.md#kthLargestElement)
+2. [Simplify path](./docs/heap_stacks_queues.md#simplifyPath)
 
 ---
 

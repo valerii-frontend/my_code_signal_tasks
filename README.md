@@ -42,6 +42,7 @@
 
 1. [Kth largest element](./docs/heap_stacks_queues.md#kthLargestElement)
 2. [Simplify path](./docs/heap_stacks_queues.md#simplifyPath)
+3. [Decode string](./docs/heap_stacks_queues.md#decodeString)
 
 ---
 
